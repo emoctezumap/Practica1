@@ -1,0 +1,20 @@
+# Archivos del sistema operativo (Windows / Mac)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Archivos temporales y respaldos de editores
+*.tmp
+*.temp
+*~
+*.swp
+*.bak
+
+# Entornos locales y variables de entorno sensibles
+.env
+.env.local
+
+# Datos generados por Docker (si se montan en local)
+*.log
