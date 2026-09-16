@@ -11,6 +11,7 @@ Carrera: Ingeniería en Sistemas Computacionales
 Índice:
 
 1. **Ejercicio 1: Control de versiones con Git y GitHub**
+   - [Investigación Teórica (PDF)](docs/Practica1Investigacion.pdf)
    - [Evidencias de Git](evidencias/git/)
 2. **Ejercicio 2: El sistema gestor en un contenedor (Docker)**
    - [Configuración Docker Compose](entorno/compose.yaml)
