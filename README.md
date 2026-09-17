@@ -1,8 +1,8 @@
 # Practica1
 Integrantes:
 1. Moctezuma Pérez Carlo Emiliano (2024630820) 
-2. Yair
-3. Jovany
+2. Tereso Ramirez Yair (2026630072)
+3. Garcia Carrasco Antonio Giovanni (2026)
 
 Grupo: 3CV2
 
