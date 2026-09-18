@@ -21,5 +21,5 @@ Carrera: Ingeniería en Sistemas Computacionales
 4. **Ejercicio 4: Estado del Arte (Artículos Científicos)**
    - [Documento de Artículos Científicos (PDF)](docs/estado-del-arte.pdf)
 5. **Ejercicio 5: Caso de Estudio y Modelo E-R**
-   - [Documentación del Caso de Estudio (PDF)](docs/P1EstudioDeCasos.pdf.pdf)
+   - [Documentación del Caso de Estudio (PDF)](docs/P1EstudioDeCasos.pdf)
    - [Diagrama Entidad-Relación](modelo/DiagramaE-RP1.drawio.png)
