@@ -2,7 +2,7 @@
 Integrantes:
 1. Moctezuma Pérez Carlo Emiliano (2024630820) 
 2. Tereso Ramirez Yair (2026630072)
-3. Garcia Carrasco Antonio Giovanni (2026)
+3. Garcia Carrasco Antonio Giovanni (2026630189)
 
 Grupo: 3CV2
 
@@ -15,7 +15,7 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Evidencias de Git](evidencias/git/)
 2. **Ejercicio 2: El sistema gestor en un contenedor (Docker)**
    - [Configuración Docker Compose](docs/compose.yaml)
-   - [Evidencias de Docker y Persistencia](evidencias/docker/)
+   - [Evidencias de Docker y Persistencia](docs/evidencias.pdf)
    - [Investigación docker](docs/conceptosdocker.pdf)
 3. **Ejercicio 3: Investigación sobre Bases de Datos**
    - [Documento de Investigación (PDF)](docs/Investigacion_que_es_una_BD.pdf)
