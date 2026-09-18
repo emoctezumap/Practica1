@@ -16,7 +16,7 @@ Carrera: Ingeniería en Sistemas Computacionales
 2. **Ejercicio 2: El sistema gestor en un contenedor (Docker)**
    - [Configuración Docker Compose](entorno/compose.yaml)
    - [Evidencias de Docker y Persistencia](evidencias/docker/)
-   - [Investigación docker](evidencias/docker/)
+   - [Investigación docker](docs/conceptosdocker.pdf)
 3. **Ejercicio 3: Investigación sobre Bases de Datos**
    - [Documento de Investigación (PDF)](docs/Investigacion_que_es_una_BD.pdf)
 4. **Ejercicio 4: Estado del Arte (Artículos Científicos)**
