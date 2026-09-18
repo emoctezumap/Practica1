@@ -14,7 +14,7 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Investigación Teórica (PDF)](docs/Practica1Investigacion.pdf)
    - [Evidencias de Git](evidencias/git/)
 2. **Ejercicio 2: El sistema gestor en un contenedor (Docker)**
-   - [Configuración Docker Compose](entorno/compose.yaml)
+   - [Configuración Docker Compose](docs/compose.yaml)
    - [Evidencias de Docker y Persistencia](evidencias/docker/)
    - [Investigación docker](docs/conceptosdocker.pdf)
 3. **Ejercicio 3: Investigación sobre Bases de Datos**
