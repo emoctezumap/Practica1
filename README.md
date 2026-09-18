@@ -17,7 +17,7 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Configuración Docker Compose](entorno/compose.yaml)
    - [Evidencias de Docker y Persistencia](evidencias/docker/)
 3. **Ejercicio 3: Investigación sobre Bases de Datos**
-   - [Documento de Investigación (PDF)](docs/investigacion-bases-de-datos.pdf)
+   - [Documento de Investigación (PDF)](docs/Investigacion_que_es_una_BD.pdf)
 4. **Ejercicio 4: Estado del Arte (Artículos Científicos)**
    - [Documento de Artículos Científicos (PDF)](docs/estado-del-arte.pdf)
 5. **Ejercicio 5: Caso de Estudio y Modelo E-R**
