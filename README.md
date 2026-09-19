@@ -19,8 +19,8 @@ Carrera: Ingeniería en Sistemas Computacionales
    - [Investigación docker](docs/conceptosdocker.pdf)
 3. **Ejercicio 3: Investigación sobre Bases de Datos**
    - [Documento de Investigación (PDF)](docs/Investigacion_que_es_una_BD.pdf)
-4. **Ejercicio 4: Estado del Arte (Artículos Científicos)**
-   - [Documento de Artículos Científicos (PDF)](docs/estado-del-arte.pdf)
+4. **Ejercicio 4: Estado del Arte (Artículos Científicos)** 
+   - [Documento de Artículos Científicos (PDF)](./docs/Estado%20del%20Arte%20.pdf)
 5. **Ejercicio 5: Caso de Estudio y Modelo E-R**
    - [Documentación del Caso de Estudio (PDF)](docs/P1EstudioDeCasos.pdf)
    - [Diagrama Entidad-Relación](modelo/DiagramaE-RP1.drawio.png)
